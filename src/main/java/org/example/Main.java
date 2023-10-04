@@ -2,8 +2,7 @@ package org.example;
 
 public class Main {
     public static void main (String[] args) {
-        Buku a = new Buku();
-        Buku b = new Buku();
+        Buku a,b = new Buku();
         a = new Buku(" Siaga Merah "," Alistair Maclean ");
         b = new Buku();
         a.cetakKelayar();
