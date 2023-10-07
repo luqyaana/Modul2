@@ -19,8 +19,8 @@ public class Buku {
         System.out.println("Judul : " + judul);
         System.out.println("Pengarang : " + pengarang);
     }
-
-//    private String judul;
+}
+//private String judul;
 //    private String pengarang;
 //    private int jumlah;
 //    public void setNilai(String judul, String pengarang, int jumlah){
@@ -35,4 +35,4 @@ public class Buku {
 //        System.out.println("Pengarang : " + pengarang);
 //        System.out.println("Jumlah : " + jumlah);
 //    }
-}
+
